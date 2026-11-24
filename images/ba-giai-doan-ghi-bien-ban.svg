@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Ba giai đoạn ghi biên bản họp bằng tiếng Anh</title>
+  <desc id="desc">Sơ đồ tự vẽ: ba ô xếp dọc theo thứ tự. Trước họp: chuẩn bị mẫu sẵn từ chương trình họp. Trong họp: chỉ ghi quyết định, việc cần làm, câu hỏi còn mở và con số chính xác. Sau họp: viết lại ngắn gọn và gửi đi trong 1 đến 2 ngày.</desc>
+  <rect width="720" height="420" fill="#f7f7f2"/>
+  <text x="360" y="32" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#1a3a5c">Ba giai đoạn ghi biên bản họp</text>
+  <g font-family="sans-serif">
+    <rect x="110" y="50" width="500" height="64" rx="8" fill="#dcebf7" stroke="#1a3a5c" stroke-width="2"/>
+    <text x="360" y="78" text-anchor="middle" font-size="16" fill="#1a3a5c">Trước họp: chuẩn bị mẫu sẵn từ chương trình họp</text>
+    <text x="360" y="102" text-anchor="middle" font-size="14" fill="#1a3a5c">Ghi sẵn ngày, giờ, người tham dự, các mục cần bàn</text>
+    <text x="360" y="136" text-anchor="middle" font-size="20" fill="#1a3a5c">↓</text>
+    <rect x="110" y="144" width="500" height="64" rx="8" fill="#e3f2e1" stroke="#2e6b34" stroke-width="2"/>
+    <text x="360" y="172" text-anchor="middle" font-size="16" fill="#2e6b34">Trong họp: chỉ ghi 4 thứ</text>
+    <text x="360" y="196" text-anchor="middle" font-size="14" fill="#2e6b34">Quyết định, việc cần làm, câu hỏi còn mở, con số chính xác</text>
+    <text x="360" y="230" text-anchor="middle" font-size="20" fill="#2e6b34">↓</text>
+    <rect x="110" y="238" width="500" height="64" rx="8" fill="#fdf0d5" stroke="#8a5a00" stroke-width="2"/>
+    <text x="360" y="266" text-anchor="middle" font-size="16" fill="#8a5a00">Sau họp: viết lại và gửi đi trong 1 đến 2 ngày</text>
+    <text x="360" y="290" text-anchor="middle" font-size="14" fill="#8a5a00">Viết kết quả trước, kiểm tra tên, ngày và con số rồi gửi</text>
+  </g>
+  <text x="360" y="340" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#444">Biên bản ghi những gì đã làm, không phải mọi câu đã nói.</text>
+  <text x="360" y="408" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#666">Hình minh họa do người viết của website tự vẽ, theo Bài 09</text>
+</svg>

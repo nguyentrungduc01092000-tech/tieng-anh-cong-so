@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">5 mảng phát âm cần luyện</title>
+  <desc id="desc">Sơ đồ tự vẽ: phát âm tiếng Anh chia thành 5 mảng. Mảng 1: âm đơn, các cặp từ dễ nhầm như leave/live, correct/collect, ship/sheep. Mảng 2: trọng âm từ, nhấn sai âm có thể đổi nghĩa, ví dụ record là động từ nhấn âm thứ hai, danh từ nhấn âm đầu. Mảng 3: trọng âm câu, nhấn từ nào thì ý đó nổi lên, ví dụ I, send, Friday. Mảng 4: nhịp điệu, nói theo cụm ý, không nói đều đều. Mảng 5: ngữ điệu, giọng lên xuống cho thấy thái độ.</desc>
+  <rect width="720" height="420" fill="#f7f7f2"/>
+  <text x="360" y="32" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#1a3a5c">5 mảng phát âm cần luyện</text>
+  <g font-family="sans-serif">
+    <rect x="60" y="55" width="600" height="52" rx="8" fill="#dcebf7" stroke="#1a3a5c" stroke-width="2"/>
+    <text x="360" y="77" text-anchor="middle" font-size="16" font-weight="bold" fill="#1a3a5c">1. Âm đơn: các cặp từ dễ nhầm</text>
+    <text x="360" y="98" text-anchor="middle" font-size="14" fill="#1a3a5c">leave/live, correct/collect, ship/sheep</text>
+    <rect x="60" y="119" width="600" height="52" rx="8" fill="#e3f2e1" stroke="#2e6b34" stroke-width="2"/>
+    <text x="360" y="141" text-anchor="middle" font-size="16" font-weight="bold" fill="#2e6b34">2. Trọng âm từ: nhấn sai âm có thể đổi nghĩa</text>
+    <text x="360" y="162" text-anchor="middle" font-size="14" fill="#2e6b34">record (động từ) nhấn âm thứ hai, RE-cord (danh từ) nhấn âm đầu</text>
+    <rect x="60" y="183" width="600" height="52" rx="8" fill="#fdf0d5" stroke="#8a5a00" stroke-width="2"/>
+    <text x="360" y="205" text-anchor="middle" font-size="16" font-weight="bold" fill="#8a5a00">3. Trọng âm câu: nhấn từ nào thì ý đó nổi lên</text>
+    <text x="360" y="226" text-anchor="middle" font-size="14" fill="#8a5a00">I will send the report on Friday — nhấn I, send hay Friday?</text>
+    <rect x="60" y="247" width="600" height="52" rx="8" fill="#f3e2ee" stroke="#7a2e5c" stroke-width="2"/>
+    <text x="360" y="269" text-anchor="middle" font-size="16" font-weight="bold" fill="#7a2e5c">4. Nhịp điệu: nói theo cụm ý, không nói đều đều</text>
+    <text x="360" y="290" text-anchor="middle" font-size="14" fill="#7a2e5c">ngắt nhịp sau mỗi cụm ý để người nghe kịp hiểu</text>
+    <rect x="60" y="311" width="600" height="52" rx="8" fill="#e8e8f7" stroke="#3a3a7a" stroke-width="2"/>
+    <text x="360" y="333" text-anchor="middle" font-size="16" font-weight="bold" fill="#3a3a7a">5. Ngữ điệu: giọng lên xuống cho thấy thái độ</text>
+    <text x="360" y="354" text-anchor="middle" font-size="14" fill="#3a3a7a">giọng lên ở cuối câu hỏi, giọng xuống ở cuối câu khẳng định</text>
+  </g>
+  <text x="360" y="408" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#666">Hình minh họa do người viết của website tự vẽ, theo Bài 12</text>
+</svg>

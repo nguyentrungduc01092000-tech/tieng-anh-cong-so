@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="380" viewBox="0 0 720 380" role="img" aria-labelledby="title desc">
+  <title id="title">Sổ từ vựng theo lĩnh vực công việc</title>
+  <desc id="desc">Sơ đồ tự vẽ: sổ từ vựng chia thành 4 mục theo lĩnh vực công việc. Mục 1: từ về công việc hằng ngày. Mục 2: từ về số liệu và tiền bạc, ví dụ invoice, overdue, quotation, discount. Mục 3: từ về khách hàng và đối tác. Mục 4: từ về họp và báo cáo. Mỗi từ ghi theo mẫu 5 cột: từ, cách đọc và trọng âm, cụm từ đi kèm, câu ví dụ, nghĩa tiếng Việt.</desc>
+  <rect width="720" height="380" fill="#f7f7f2"/>
+  <text x="360" y="32" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#1a3a5c">Sổ từ vựng theo lĩnh vực công việc</text>
+  <g font-family="sans-serif">
+    <rect x="40" y="55" width="320" height="80" rx="8" fill="#dcebf7" stroke="#1a3a5c" stroke-width="2"/>
+    <text x="200" y="88" text-anchor="middle" font-size="16" font-weight="bold" fill="#1a3a5c">1. Công việc hằng ngày</text>
+    <text x="200" y="112" text-anchor="middle" font-size="14" fill="#1a3a5c">từ dùng mỗi ngày trong công việc</text>
+    <rect x="360" y="55" width="320" height="80" rx="8" fill="#e3f2e1" stroke="#2e6b34" stroke-width="2"/>
+    <text x="520" y="88" text-anchor="middle" font-size="16" font-weight="bold" fill="#2e6b34">2. Số liệu và tiền bạc</text>
+    <text x="520" y="112" text-anchor="middle" font-size="14" fill="#2e6b34">invoice, overdue, quotation, discount</text>
+    <rect x="40" y="155" width="320" height="80" rx="8" fill="#fdf0d5" stroke="#8a5a00" stroke-width="2"/>
+    <text x="200" y="188" text-anchor="middle" font-size="16" font-weight="bold" fill="#8a5a00">3. Khách hàng và đối tác</text>
+    <text x="200" y="212" text-anchor="middle" font-size="14" fill="#8a5a00">từ dùng khi viết email, gọi điện</text>
+    <rect x="360" y="155" width="320" height="80" rx="8" fill="#f3e2ee" stroke="#7a2e5c" stroke-width="2"/>
+    <text x="520" y="188" text-anchor="middle" font-size="16" font-weight="bold" fill="#7a2e5c">4. Họp và báo cáo</text>
+    <text x="520" y="212" text-anchor="middle" font-size="14" fill="#7a2e5c">từ dùng trong họp và báo cáo tuần</text>
+    <rect x="40" y="255" width="640" height="64" rx="8" fill="#ffffff" stroke="#1a3a5c" stroke-width="2"/>
+    <text x="360" y="282" text-anchor="middle" font-size="15" fill="#1a3a5c">Mỗi từ ghi theo mẫu 5 cột:</text>
+    <text x="360" y="306" text-anchor="middle" font-size="14" fill="#1a3a5c">từ — cách đọc và trọng âm — cụm từ đi kèm — câu ví dụ — nghĩa tiếng Việt</text>
+  </g>
+  <text x="360" y="368" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#666">Hình minh họa do người viết của website tự vẽ, theo Bài 11</text>
+</svg>

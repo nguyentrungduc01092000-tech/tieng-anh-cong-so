@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="380" viewBox="0 0 720 380" role="img" aria-labelledby="title desc">
+  <title id="title">Quy trình đọc tài liệu chuyên môn 3 bước</title>
+  <desc id="desc">Sơ đồ tự vẽ: quy trình đọc tài liệu chuyên môn gồm 3 bước. Bước 1: hỏi trước khi đọc, bạn cần gì từ tài liệu này, cần con số, quyết định hay hướng dẫn. Bước 2: đọc lướt lấy ý chính và đọc quét tìm thông tin cụ thể. Bước 3: đoán nghĩa từ mới qua ngữ cảnh và ghi chú thuật ngữ để dùng lại.</desc>
+  <rect width="720" height="380" fill="#f7f7f2"/>
+  <text x="360" y="32" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#1a3a5c">Quy trình đọc tài liệu chuyên môn 3 bước</text>
+  <g font-family="sans-serif">
+    <rect x="110" y="50" width="500" height="64" rx="8" fill="#dcebf7" stroke="#1a3a5c" stroke-width="2"/>
+    <text x="360" y="76" text-anchor="middle" font-size="16" font-weight="bold" fill="#1a3a5c">Bước 1: Hỏi trước khi đọc</text>
+    <text x="360" y="98" text-anchor="middle" font-size="14" fill="#1a3a5c">Bạn cần gì từ tài liệu này: con số, quyết định hay hướng dẫn?</text>
+    <text x="360" y="126" text-anchor="middle" font-size="20" fill="#1a3a5c">↓</text>
+    <rect x="110" y="134" width="500" height="64" rx="8" fill="#e3f2e1" stroke="#2e6b34" stroke-width="2"/>
+    <text x="360" y="160" text-anchor="middle" font-size="16" font-weight="bold" fill="#2e6b34">Bước 2: Đọc lướt và đọc quét</text>
+    <text x="360" y="182" text-anchor="middle" font-size="14" fill="#2e6b34">Đọc lướt lấy ý chính, đọc quét tìm thông tin cụ thể</text>
+    <text x="360" y="210" text-anchor="middle" font-size="20" fill="#2e6b34">↓</text>
+    <rect x="110" y="218" width="500" height="64" rx="8" fill="#fdf0d5" stroke="#8a5a00" stroke-width="2"/>
+    <text x="360" y="244" text-anchor="middle" font-size="16" font-weight="bold" fill="#8a5a00">Bước 3: Đoán nghĩa và ghi chú</text>
+    <text x="360" y="266" text-anchor="middle" font-size="14" fill="#8a5a00">Đoán nghĩa từ mới qua ngữ cảnh, ghi thuật ngữ để dùng lại</text>
+  </g>
+  <text x="360" y="368" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#666">Hình minh họa do người viết của website tự vẽ, theo Bài 13</text>
+</svg>

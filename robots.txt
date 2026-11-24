@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://68.id.vn/sitemap.xml

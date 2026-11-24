@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="530" viewBox="0 0 720 530" role="img" aria-labelledby="title desc">
+  <title id="title">5 thông tin sếp cần thấy trong email xin nghỉ</title>
+  <desc id="desc">Sơ đồ tự vẽ: 5 thông tin sếp cần thấy trong email xin nghỉ. 1 ngày nghỉ và ngày quay lại, 2 loại nghỉ, 3 lý do ngắn gọn chỉ một câu, 4 ai làm thay bạn và việc gì đã xong, 5 cách liên lạc khẩn cấp.</desc>
+  <rect width="720" height="530" fill="#f7f7f2"/>
+  <text x="360" y="32" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#1a3a5c">5 thông tin sếp cần thấy trong email xin nghỉ</text>
+  <g font-family="sans-serif">
+    <rect x="110" y="50" width="500" height="64" rx="8" fill="#dcebf7" stroke="#1a3a5c" stroke-width="2"/>
+    <text x="360" y="76" text-anchor="middle" font-size="16" font-weight="bold" fill="#1a3a5c">1. Ngày nghỉ và ngày quay lại</text>
+    <text x="360" y="98" text-anchor="middle" font-size="14" fill="#1a3a5c">Ghi rõ ngày bắt đầu, ngày cuối và ngày quay lại</text>
+    <text x="360" y="136" text-anchor="middle" font-size="20" fill="#1a3a5c">↓</text>
+    <rect x="110" y="142" width="500" height="64" rx="8" fill="#e3f2e1" stroke="#2e6b34" stroke-width="2"/>
+    <text x="360" y="168" text-anchor="middle" font-size="16" font-weight="bold" fill="#2e6b34">2. Loại nghỉ</text>
+    <text x="360" y="190" text-anchor="middle" font-size="14" fill="#2e6b34">annual leave, sick leave, a day off, half a day off</text>
+    <text x="360" y="228" text-anchor="middle" font-size="20" fill="#2e6b34">↓</text>
+    <rect x="110" y="234" width="500" height="64" rx="8" fill="#fdf0d5" stroke="#8a5a00" stroke-width="2"/>
+    <text x="360" y="260" text-anchor="middle" font-size="16" font-weight="bold" fill="#8a5a00">3. Lý do ngắn gọn, chỉ một câu</text>
+    <text x="360" y="282" text-anchor="middle" font-size="14" fill="#8a5a00">Nghỉ phép: việc gia đình; nghỉ ốm: không khỏe</text>
+    <text x="360" y="320" text-anchor="middle" font-size="20" fill="#8a5a00">↓</text>
+    <rect x="110" y="326" width="500" height="64" rx="8" fill="#e8e0f5" stroke="#4a2d7a" stroke-width="2"/>
+    <text x="360" y="352" text-anchor="middle" font-size="16" font-weight="bold" fill="#4a2d7a">4. Ai làm thay bạn, và việc gì đã xong</text>
+    <text x="360" y="374" text-anchor="middle" font-size="14" fill="#4a2d7a">Bàn giao việc gấp nhất trong ngày hôm đó</text>
+    <text x="360" y="412" text-anchor="middle" font-size="20" fill="#4a2d7a">↓</text>
+    <rect x="110" y="418" width="500" height="64" rx="8" fill="#d5f0f0" stroke="#0f5b5b" stroke-width="2"/>
+    <text x="360" y="444" text-anchor="middle" font-size="16" font-weight="bold" fill="#0f5b5b">5. Cách liên lạc khẩn cấp</text>
+    <text x="360" y="466" text-anchor="middle" font-size="14" fill="#0f5b5b">Số điện thoại và khi nào bạn trả lời được</text>
+  </g>
+  <text x="360" y="516" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#666">Hình minh họa do người viết của website tự vẽ, theo Bài 14</text>
+</svg>

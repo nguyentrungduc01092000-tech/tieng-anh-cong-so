@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="346" viewBox="0 0 720 346" role="img" aria-labelledby="title desc">
+  <title id="title">Trước khi nói: hỏi mình ba câu</title>
+  <desc id="desc">Sơ đồ tự vẽ: trước khi nói với sếp hay khách hàng, hỏi mình ba câu. Câu 1 tôi muốn người nghe làm gì, câu 2 khi nào thì xong, câu 3 nếu không làm được như vậy thì sao.</desc>
+  <rect width="720" height="346" fill="#f7f7f2"/>
+  <text x="360" y="32" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#1a3a5c">Trước khi nói: hỏi mình ba câu</text>
+  <g font-family="sans-serif">
+    <rect x="110" y="50" width="500" height="64" rx="8" fill="#dcebf7" stroke="#1a3a5c" stroke-width="2"/>
+    <text x="360" y="76" text-anchor="middle" font-size="16" font-weight="bold" fill="#1a3a5c">Câu 1: Tôi muốn người nghe làm gì?</text>
+    <text x="360" y="98" text-anchor="middle" font-size="14" fill="#1a3a5c">Nói rõ điều cần phê duyệt, hoặc việc cần làm</text>
+    <text x="360" y="136" text-anchor="middle" font-size="20" fill="#1a3a5c">↓</text>
+    <rect x="110" y="142" width="500" height="64" rx="8" fill="#e3f2e1" stroke="#2e6b34" stroke-width="2"/>
+    <text x="360" y="168" text-anchor="middle" font-size="16" font-weight="bold" fill="#2e6b34">Câu 2: Khi nào thì xong?</text>
+    <text x="360" y="190" text-anchor="middle" font-size="14" fill="#2e6b34">Ghi thời hạn rõ ràng, ví dụ: by 5 p.m. today</text>
+    <text x="360" y="228" text-anchor="middle" font-size="20" fill="#2e6b34">↓</text>
+    <rect x="110" y="234" width="500" height="64" rx="8" fill="#fdf0d5" stroke="#8a5a00" stroke-width="2"/>
+    <text x="360" y="260" text-anchor="middle" font-size="16" font-weight="bold" fill="#8a5a00">Câu 3: Nếu không làm được như vậy thì sao?</text>
+    <text x="360" y="282" text-anchor="middle" font-size="14" fill="#8a5a00">Đưa bước tiếp theo, cho người nghe một lựa chọn</text>
+  </g>
+  <text x="360" y="332" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#666">Hình minh họa do người viết của website tự vẽ, theo Bài 04</text>
+</svg>

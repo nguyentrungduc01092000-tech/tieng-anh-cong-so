@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="260" viewBox="0 0 720 260" role="img" aria-labelledby="title desc">
+  <title id="title">Vòng luyện nghe và nói tiếng Anh 20 phút mỗi ngày</title>
+  <desc id="desc">Sơ đồ tự vẽ: ba ô nối tiếp nhau. Ô 1: Nghe lấy ý chính, 8 phút. Ô 2: Nghe lại và nói theo, 7 phút. Ô 3: Kể lại bằng lời của mình, 5 phút. Tổng cộng 20 phút.</desc>
+  <rect width="720" height="260" fill="#f7f7f2"/>
+  <text x="360" y="34" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#1a3a5c">Vòng luyện nghe và nói 20 phút mỗi ngày</text>
+  <g font-family="sans-serif">
+    <rect x="30" y="70" width="190" height="110" rx="10" fill="#dcebf7" stroke="#1a3a5c" stroke-width="2"/>
+    <text x="125" y="105" text-anchor="middle" font-size="17" font-weight="bold" fill="#1a3a5c">Vòng 1 — 8 phút</text>
+    <text x="125" y="132" text-anchor="middle" font-size="15" fill="#1a3a5c">Nghe lấy ý chính</text>
+    <text x="125" y="156" text-anchor="middle" font-size="13" fill="#444">Viết ra 3 ý chính</text>
+    <rect x="265" y="70" width="190" height="110" rx="10" fill="#e3f2e1" stroke="#2e6b34" stroke-width="2"/>
+    <text x="360" y="105" text-anchor="middle" font-size="17" font-weight="bold" fill="#2e6b34">Vòng 2 — 7 phút</text>
+    <text x="360" y="132" text-anchor="middle" font-size="15" fill="#2e6b34">Nghe lại và nói theo</text>
+    <text x="360" y="156" text-anchor="middle" font-size="13" fill="#444">Từng câu ngắn, nói theo</text>
+    <rect x="500" y="70" width="190" height="110" rx="10" fill="#fdf0d5" stroke="#8a5a00" stroke-width="2"/>
+    <text x="595" y="105" text-anchor="middle" font-size="17" font-weight="bold" fill="#8a5a00">Vòng 3 — 5 phút</text>
+    <text x="595" y="132" text-anchor="middle" font-size="15" fill="#8a5a00">Kể lại bằng lời mình</text>
+    <text x="595" y="156" text-anchor="middle" font-size="13" fill="#444">Ghi âm và nghe lại</text>
+    <text x="240" y="128" text-anchor="middle" font-size="26" fill="#1a3a5c">→</text>
+    <text x="475" y="128" text-anchor="middle" font-size="26" fill="#2e6b34">→</text>
+  </g>
+  <text x="360" y="215" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#333">8 + 7 + 5 = 20 phút — làm đủ cả ba vòng mỗi ngày</text>
+  <text x="360" y="242" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#666">Hình minh họa do người viết của website tự vẽ, theo Bài 05</text>
+</svg>

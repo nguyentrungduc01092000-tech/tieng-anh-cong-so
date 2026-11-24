@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="340" viewBox="0 0 720 340" role="img" aria-labelledby="title desc">
+  <title id="title">Khung 4 phần để viết một email công việc ngắn gọn</title>
+  <desc id="desc">Sơ đồ tự vẽ: bốn ô xếp dọc theo thứ tự. Phần 1: Tiêu đề nói rõ việc cần làm. Phần 2: Lời chào kèm câu nói rõ mục đích. Phần 3: Thân bài chỉ có 2 đến 3 câu. Phần 4: Câu kết nói rõ bạn cần gì kèm thời hạn.</desc>
+  <rect width="720" height="340" fill="#f7f7f2"/>
+  <text x="360" y="32" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#1a3a5c">Khung 4 phần để viết một email công việc ngắn gọn</text>
+  <g font-family="sans-serif">
+    <rect x="110" y="50" width="500" height="44" rx="8" fill="#dcebf7" stroke="#1a3a5c" stroke-width="2"/>
+    <text x="360" y="78" text-anchor="middle" font-size="16" fill="#1a3a5c">Phần 1: Tiêu đề nói rõ việc cần làm</text>
+    <text x="360" y="112" text-anchor="middle" font-size="20" fill="#1a3a5c">↓</text>
+    <rect x="110" y="120" width="500" height="44" rx="8" fill="#e3f2e1" stroke="#2e6b34" stroke-width="2"/>
+    <text x="360" y="148" text-anchor="middle" font-size="16" fill="#2e6b34">Phần 2: Lời chào kèm câu nói rõ mục đích</text>
+    <text x="360" y="182" text-anchor="middle" font-size="20" fill="#2e6b34">↓</text>
+    <rect x="110" y="190" width="500" height="44" rx="8" fill="#fdf0d5" stroke="#8a5a00" stroke-width="2"/>
+    <text x="360" y="218" text-anchor="middle" font-size="16" fill="#8a5a00">Phần 3: Thân bài chỉ có 2 đến 3 câu</text>
+    <text x="360" y="252" text-anchor="middle" font-size="20" fill="#8a5a00">↓</text>
+    <rect x="110" y="260" width="500" height="44" rx="8" fill="#f3e2ee" stroke="#7a2e5c" stroke-width="2"/>
+    <text x="360" y="288" text-anchor="middle" font-size="16" fill="#7a2e5c">Phần 4: Câu kết nói rõ bạn cần gì kèm thời hạn</text>
+  </g>
+  <text x="360" y="328" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#666">Hình minh họa do người viết của website tự vẽ, theo Bài 03</text>
+</svg>
