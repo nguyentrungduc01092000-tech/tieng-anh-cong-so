@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="260" viewBox="0 0 720 260" role="img" aria-labelledby="title desc">
   <title id="title">Vòng luyện nghe và nói tiếng Anh 20 phút mỗi ngày</title>
-  <desc id="desc">Sơ đồ được vẽ riêng cho website: ba ô nối tiếp nhau. Ô 1: Nghe lấy ý chính, 8 phút. Ô 2: Nghe lại và nói theo, 7 phút. Ô 3: Kể lại bằng lời của mình, 5 phút. Tổng cộng 20 phút.</desc>
+  <desc id="desc">ba ô nối tiếp nhau. Ô 1: Nghe lấy ý chính, 8 phút. Ô 2: Nghe lại và nói theo, 7 phút. Ô 3: Kể lại bằng lời của mình, 5 phút. Tổng cộng 20 phút.</desc>
   <rect width="720" height="260" fill="#f7f7f2"/>
   <text x="360" y="34" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#1a3a5c">Vòng luyện nghe và nói 20 phút mỗi ngày</text>
   <g font-family="sans-serif">
@@ -20,5 +20,5 @@
     <text x="475" y="128" text-anchor="middle" font-size="26" fill="#2e6b34">→</text>
   </g>
   <text x="360" y="215" text-anchor="middle" font-family="sans-serif" font-size="15" fill="#333">8 + 7 + 5 = 20 phút — làm đủ cả ba vòng mỗi ngày</text>
-  <text x="360" y="242" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#666">Hình minh họa được vẽ riêng cho website, theo bài "Cách luyện nghe và nói mỗi ngày"</text>
+  <text x="360" y="242" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#666">Sơ đồ vòng luyện 20 phút.</text>
 </svg>

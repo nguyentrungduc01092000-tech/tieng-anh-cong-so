@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="380" viewBox="0 0 720 380" role="img" aria-labelledby="title desc">
   <title id="title">Sổ từ vựng theo lĩnh vực công việc</title>
-  <desc id="desc">Sơ đồ được vẽ riêng cho website: sổ từ vựng chia thành 4 mục theo lĩnh vực công việc. Mục 1: từ về công việc hằng ngày. Mục 2: từ về số liệu và tiền bạc, ví dụ invoice, overdue, quotation, discount. Mục 3: từ về khách hàng và đối tác. Mục 4: từ về họp và báo cáo. Mỗi từ ghi theo mẫu 5 cột: từ, cách đọc và trọng âm, cụm từ đi kèm, câu ví dụ, nghĩa tiếng Việt.</desc>
+  <desc id="desc">sổ từ vựng chia thành 4 mục theo lĩnh vực công việc. Mục 1: từ về công việc hằng ngày. Mục 2: từ về số liệu và tiền bạc, ví dụ invoice, overdue, quotation, discount. Mục 3: từ về khách hàng và đối tác. Mục 4: từ về họp và báo cáo. Mỗi từ ghi theo mẫu 5 cột: từ, cách đọc và trọng âm, cụm từ đi kèm, câu ví dụ, nghĩa tiếng Việt.</desc>
   <rect width="720" height="380" fill="#f7f7f2"/>
   <text x="360" y="32" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#1a3a5c">Sổ từ vựng theo lĩnh vực công việc</text>
   <g font-family="sans-serif">
@@ -20,5 +20,5 @@
     <text x="360" y="282" text-anchor="middle" font-size="15" fill="#1a3a5c">Mỗi từ ghi theo mẫu 5 cột:</text>
     <text x="360" y="306" text-anchor="middle" font-size="14" fill="#1a3a5c">từ — cách đọc và trọng âm — cụm từ đi kèm — câu ví dụ — nghĩa tiếng Việt</text>
   </g>
-  <text x="360" y="368" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#666">Hình minh họa được vẽ riêng cho website, theo bài "Cách học từ vựng chuyên ngành"</text>
+  <text x="360" y="368" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#666">Sơ đồ sổ từ vựng theo lĩnh vực công việc.</text>
 </svg>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
   <title id="title">Công thức 4 câu để trình bày ý kiến trong cuộc họp bằng tiếng Anh</title>
-  <desc id="desc">Sơ đồ được vẽ riêng cho website: bốn ô xếp dọc theo thứ tự. Câu 1: điểm chính, nói thẳng ý của bạn. Câu 2: lý do, vì sao bạn nghĩ như vậy. Câu 3: ví dụ cụ thể, nếu có. Câu 4: câu hỏi mời mọi người phản hồi.</desc>
+  <desc id="desc">bốn ô xếp dọc theo thứ tự. Câu 1: điểm chính, nói thẳng ý của bạn. Câu 2: lý do, vì sao bạn nghĩ như vậy. Câu 3: ví dụ cụ thể, nếu có. Câu 4: câu hỏi mời mọi người phản hồi.</desc>
   <rect width="720" height="420" fill="#f7f7f2"/>
   <text x="360" y="32" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#1a3a5c">Công thức 4 câu để trình bày ý kiến trong cuộc họp</text>
   <g font-family="sans-serif">
@@ -17,5 +17,5 @@
     <text x="360" y="288" text-anchor="middle" font-size="16" fill="#7a2e5c">Câu 4: Câu hỏi — mời mọi người phản hồi</text>
   </g>
   <text x="360" y="340" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#444">Nói điểm chính sớm, đừng mở đầu bằng đoạn giới thiệu dài.</text>
-  <text x="360" y="408" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#666">Hình minh họa được vẽ riêng cho website, theo bài "Cách trình bày ý kiến và phản đối lịch sự"</text>
+  <text x="360" y="408" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#666">Sơ đồ công thức 4 câu để trình bày ý kiến trong cuộc họp.</text>
 </svg>

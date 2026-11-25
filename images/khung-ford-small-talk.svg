@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="438" viewBox="0 0 720 438" role="img" aria-labelledby="title desc">
   <title id="title">Khung FORD: 4 nhóm chủ đề an toàn khi small talk</title>
-  <desc id="desc">Sơ đồ được vẽ riêng cho website: khung FORD gồm 4 nhóm chủ đề an toàn khi small talk. F Family gia đình, O Occupation công việc, R Recreation sở thích, D Dreams ước mơ.</desc>
+  <desc id="desc">khung FORD gồm 4 nhóm chủ đề an toàn khi small talk. F Family gia đình, O Occupation công việc, R Recreation sở thích, D Dreams ước mơ.</desc>
   <rect width="720" height="438" fill="#f7f7f2"/>
   <text x="360" y="32" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#1a3a5c">Khung FORD: 4 nhóm chủ đề an toàn khi small talk</text>
   <g font-family="sans-serif">
@@ -20,5 +20,5 @@
     <text x="360" y="352" text-anchor="middle" font-size="16" font-weight="bold" fill="#4a2d7a">D — Dreams (ước mơ)</text>
     <text x="360" y="374" text-anchor="middle" font-size="14" fill="#4a2d7a">Kế hoạch nghỉ lễ, nơi muốn tới thăm</text>
   </g>
-  <text x="360" y="424" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#666">Hình minh họa được vẽ riêng cho website, theo bài "Cách small talk với đồng nghiệp và đối tác"</text>
+  <text x="360" y="424" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#666">Sơ đồ khung FORD với 4 nhóm chủ đề an toàn.</text>
 </svg>

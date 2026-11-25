@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="346" viewBox="0 0 720 346" role="img" aria-labelledby="title desc">
   <title id="title">Trước khi nói: hỏi mình ba câu</title>
-  <desc id="desc">Sơ đồ được vẽ riêng cho website: trước khi nói với sếp hay khách hàng, hỏi mình ba câu. Câu 1 tôi muốn người nghe làm gì, câu 2 khi nào thì xong, câu 3 nếu không làm được như vậy thì sao.</desc>
+  <desc id="desc">trước khi nói với sếp hay khách hàng, hỏi mình ba câu. Câu 1 tôi muốn người nghe làm gì, câu 2 khi nào thì xong, câu 3 nếu không làm được như vậy thì sao.</desc>
   <rect width="720" height="346" fill="#f7f7f2"/>
   <text x="360" y="32" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#1a3a5c">Trước khi nói: hỏi mình ba câu</text>
   <g font-family="sans-serif">
@@ -16,5 +16,5 @@
     <text x="360" y="260" text-anchor="middle" font-size="16" font-weight="bold" fill="#8a5a00">Câu 3: Nếu không làm được như vậy thì sao?</text>
     <text x="360" y="282" text-anchor="middle" font-size="14" fill="#8a5a00">Đưa bước tiếp theo, cho người nghe một lựa chọn</text>
   </g>
-  <text x="360" y="332" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#666">Hình minh họa được vẽ riêng cho website, theo bài "Mẫu câu giao tiếp với sếp và khách hàng"</text>
+  <text x="360" y="332" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#666">Sơ đồ ba câu hỏi trước khi nói với sếp và khách hàng.</text>
 </svg>

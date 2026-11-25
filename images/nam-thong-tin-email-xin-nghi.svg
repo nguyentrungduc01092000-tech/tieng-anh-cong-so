@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="530" viewBox="0 0 720 530" role="img" aria-labelledby="title desc">
   <title id="title">5 thông tin sếp cần thấy trong email xin nghỉ</title>
-  <desc id="desc">Sơ đồ được vẽ riêng cho website: 5 thông tin sếp cần thấy trong email xin nghỉ. 1 ngày nghỉ và ngày quay lại, 2 loại nghỉ, 3 lý do ngắn gọn chỉ một câu, 4 ai làm thay bạn và việc gì đã xong, 5 cách liên lạc khẩn cấp.</desc>
+  <desc id="desc">5 thông tin sếp cần thấy trong email xin nghỉ. 1 ngày nghỉ và ngày quay lại, 2 loại nghỉ, 3 lý do ngắn gọn chỉ một câu, 4 ai làm thay bạn và việc gì đã xong, 5 cách liên lạc khẩn cấp.</desc>
   <rect width="720" height="530" fill="#f7f7f2"/>
   <text x="360" y="32" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#1a3a5c">5 thông tin sếp cần thấy trong email xin nghỉ</text>
   <g font-family="sans-serif">
@@ -24,5 +24,5 @@
     <text x="360" y="444" text-anchor="middle" font-size="16" font-weight="bold" fill="#0f5b5b">5. Cách liên lạc khẩn cấp</text>
     <text x="360" y="466" text-anchor="middle" font-size="14" fill="#0f5b5b">Số điện thoại và khi nào bạn trả lời được</text>
   </g>
-  <text x="360" y="516" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#666">Hình minh họa được vẽ riêng cho website, theo bài "Cách viết email xin nghỉ phép, xin đi muộn và báo ốm"</text>
+  <text x="360" y="516" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#666">Sơ đồ 5 thông tin trong email xin nghỉ.</text>
 </svg>

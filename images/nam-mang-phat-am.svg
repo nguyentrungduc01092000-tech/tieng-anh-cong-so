@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
   <title id="title">5 mảng phát âm cần luyện</title>
-  <desc id="desc">Sơ đồ được vẽ riêng cho website: phát âm tiếng Anh chia thành 5 mảng. Mảng 1: âm đơn, các cặp từ dễ nhầm như leave/live, correct/collect, ship/sheep. Mảng 2: trọng âm từ, nhấn sai âm có thể đổi nghĩa, ví dụ record là động từ nhấn âm thứ hai, danh từ nhấn âm đầu. Mảng 3: trọng âm câu, nhấn từ nào thì ý đó nổi lên, ví dụ I, send, Friday. Mảng 4: nhịp điệu, nói theo cụm ý, không nói đều đều. Mảng 5: ngữ điệu, giọng lên xuống cho thấy thái độ.</desc>
+  <desc id="desc">phát âm tiếng Anh chia thành 5 mảng. Mảng 1: âm đơn, các cặp từ dễ nhầm như leave/live, correct/collect, ship/sheep. Mảng 2: trọng âm từ, nhấn sai âm có thể đổi nghĩa, ví dụ record là động từ nhấn âm thứ hai, danh từ nhấn âm đầu. Mảng 3: trọng âm câu, nhấn từ nào thì ý đó nổi lên, ví dụ I, send, Friday. Mảng 4: nhịp điệu, nói theo cụm ý, không nói đều đều. Mảng 5: ngữ điệu, giọng lên xuống cho thấy thái độ.</desc>
   <rect width="720" height="420" fill="#f7f7f2"/>
   <text x="360" y="32" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#1a3a5c">5 mảng phát âm cần luyện</text>
   <g font-family="sans-serif">
@@ -20,5 +20,5 @@
     <text x="360" y="333" text-anchor="middle" font-size="16" font-weight="bold" fill="#3a3a7a">5. Ngữ điệu: giọng lên xuống cho thấy thái độ</text>
     <text x="360" y="354" text-anchor="middle" font-size="14" fill="#3a3a7a">giọng lên ở cuối câu hỏi, giọng xuống ở cuối câu khẳng định</text>
   </g>
-  <text x="360" y="408" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#666">Hình minh họa được vẽ riêng cho website, theo bài "Cách luyện phát âm tiếng Anh"</text>
+  <text x="360" y="408" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#666">Sơ đồ 5 mảng phát âm cần luyện.</text>
 </svg>
