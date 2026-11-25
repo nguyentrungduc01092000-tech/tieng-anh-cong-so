@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="622" viewBox="0 0 720 622" role="img" aria-labelledby="title desc">
   <title id="title">Một CV tốt gồm 6 mục, theo thứ tự từ trên xuống</title>
-  <desc id="desc">Sơ đồ tự vẽ: một CV tốt gồm 6 mục theo thứ tự từ trên xuống, theo tài liệu A CV của British Council. 1 thông tin liên hệ, 2 đoạn giới thiệu ngắn, 3 kinh nghiệm làm việc, 4 học vấn, 5 kỹ năng và sở thích, 6 người tham chiếu.</desc>
+  <desc id="desc">Sơ đồ được vẽ riêng cho website: một CV tốt gồm 6 mục theo thứ tự từ trên xuống, theo tài liệu A CV của British Council. 1 thông tin liên hệ, 2 đoạn giới thiệu ngắn, 3 kinh nghiệm làm việc, 4 học vấn, 5 kỹ năng và sở thích, 6 người tham chiếu.</desc>
   <rect width="720" height="622" fill="#f7f7f2"/>
   <text x="360" y="32" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#1a3a5c">Một CV tốt gồm 6 mục, theo thứ tự từ trên xuống</text>
   <g font-family="sans-serif">
@@ -28,5 +28,5 @@
     <text x="360" y="536" text-anchor="middle" font-size="16" font-weight="bold" fill="#7a2d2d">6. Người tham chiếu (References)</text>
     <text x="360" y="558" text-anchor="middle" font-size="14" fill="#7a2d2d">Hoặc ghi: References available on request</text>
   </g>
-  <text x="360" y="608" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#666">Hình minh họa do người viết của website tự vẽ, theo Bài 19</text>
+  <text x="360" y="608" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#666">Hình minh họa được vẽ riêng cho website, theo Bài 19</text>
 </svg>

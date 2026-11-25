@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="622" viewBox="0 0 720 622" role="img" aria-labelledby="title desc">
   <title id="title">30 mẫu câu họp theo 6 nhóm tình huống</title>
-  <desc id="desc">Sơ đồ tự vẽ: 30 mẫu câu họp chia theo 6 nhóm tình huống. Nhóm 1 mở đầu 5 câu, nhóm 2 trình bày ý kiến 5 câu, nhóm 3 hỏi lại khi chưa hiểu 5 câu, nhóm 4 đồng ý và phản đối lịch sự 6 câu, nhóm 5 hỏi ý kiến người khác 4 câu, nhóm 6 kết thúc và nhận việc 5 câu.</desc>
+  <desc id="desc">Sơ đồ được vẽ riêng cho website: 30 mẫu câu họp chia theo 6 nhóm tình huống. Nhóm 1 mở đầu 5 câu, nhóm 2 trình bày ý kiến 5 câu, nhóm 3 hỏi lại khi chưa hiểu 5 câu, nhóm 4 đồng ý và phản đối lịch sự 6 câu, nhóm 5 hỏi ý kiến người khác 4 câu, nhóm 6 kết thúc và nhận việc 5 câu.</desc>
   <rect width="720" height="622" fill="#f7f7f2"/>
   <text x="360" y="32" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#1a3a5c">30 mẫu câu họp theo 6 nhóm tình huống</text>
   <g font-family="sans-serif">
@@ -28,5 +28,5 @@
     <text x="360" y="536" text-anchor="middle" font-size="16" font-weight="bold" fill="#7a2d2d">Nhóm 6: Kết thúc và nhận việc — 5 câu</text>
     <text x="360" y="558" text-anchor="middle" font-size="14" fill="#7a2d2d">To summarise, we agreed to...</text>
   </g>
-  <text x="360" y="608" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#666">Hình minh họa do người viết của website tự vẽ, theo Bài 01</text>
+  <text x="360" y="608" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#666">Hình minh họa được vẽ riêng cho website, theo Bài 01</text>
 </svg>

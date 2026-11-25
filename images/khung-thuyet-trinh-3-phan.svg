@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="380" viewBox="0 0 720 380" role="img" aria-labelledby="title desc">
   <title id="title">Khung 3 phần của một bài thuyết trình ngắn bằng tiếng Anh</title>
-  <desc id="desc">Sơ đồ tự vẽ: ba ô xếp dọc theo thứ tự, rồi một ô câu hỏi. Phần 1: Mở đầu nói chủ đề và thời gian. Phần 2: Ý chính gồm 2 đến 3 ý, mỗi ý có điểm, lý do và ví dụ. Phần 3: Kết thúc tóm tắt và nói bước tiếp theo. Sau đó: phần câu hỏi.</desc>
+  <desc id="desc">Sơ đồ được vẽ riêng cho website: ba ô xếp dọc theo thứ tự, rồi một ô câu hỏi. Phần 1: Mở đầu nói chủ đề và thời gian. Phần 2: Ý chính gồm 2 đến 3 ý, mỗi ý có điểm, lý do và ví dụ. Phần 3: Kết thúc tóm tắt và nói bước tiếp theo. Sau đó: phần câu hỏi.</desc>
   <rect width="720" height="380" fill="#f7f7f2"/>
   <text x="360" y="32" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#1a3a5c">Khung 3 phần của một bài thuyết trình ngắn</text>
   <g font-family="sans-serif">
@@ -17,5 +17,5 @@
     <rect x="110" y="280" width="500" height="44" rx="8" fill="#f3e2ee" stroke="#7a2e5c" stroke-width="2"/>
     <text x="360" y="308" text-anchor="middle" font-size="16" fill="#7a2e5c">Sau đó: phần câu hỏi</text>
   </g>
-  <text x="360" y="368" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#666">Hình minh họa do người viết của website tự vẽ, theo Bài 06</text>
+  <text x="360" y="368" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#666">Hình minh họa được vẽ riêng cho website, theo Bài 06</text>
 </svg>
